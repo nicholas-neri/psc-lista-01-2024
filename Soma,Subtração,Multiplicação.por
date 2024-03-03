@@ -3,8 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Digite o 1
- número: ")
+		escreva("Digite o 1 número: ")
 		inteiro numeroUm
 		leia(numeroUm)
 		escreva("Digite o 2 número: ")
